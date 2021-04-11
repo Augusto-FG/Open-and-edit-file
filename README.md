@@ -1,5 +1,5 @@
 # Open-and-edit-file
-El programa consiste en escribir un programa para mostrar un informe (claro y legible). Se utiliza manejo de excepciones
+El programa consiste en mostrar un informe (claro y legible). Se utiliza manejo de excepciones
 creación de funciones que resuelvan un subproblema (modularizar) y función lambda.
 
 Una empresa comercial dispone del archivo de VENTAS con las ventas realizadas en el año
